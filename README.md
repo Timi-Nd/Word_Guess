@@ -1,4 +1,4 @@
-# Wor Guess Game
+# Word Guess Game
 
 ## Introduction
 "Mystery Letter Quest" is a simple text-based game where the objective is to guess letters of a randomly selected word from a predefined list. The game is interactive, played entirely through the console, and provides immediate feedback on the player's guesses.
